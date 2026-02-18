@@ -54,6 +54,7 @@
   <p>CSE Student | AI Enthusiast</p>
   <div class="wave-bottom"></div>
 </div>
+
 # ⭐ Profile Snapshot
 
 | | | |
